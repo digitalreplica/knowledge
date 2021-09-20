@@ -1,0 +1,6 @@
+[submodule "technology"]
+	path = technology
+	url = https://github.com/digitalreplica/technology.git
+[submodule "hacking"]
+	path = hacking
+	url = https://github.com/digitalreplica/hacking.git
