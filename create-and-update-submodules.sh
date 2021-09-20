@@ -43,7 +43,7 @@ echo ""
 
 # Update all submodules
 echo "Updating all git-notes repos"
-git submodule update --remote
+git submodule foreach 'git pull'
 echo ""
 
 # Complete

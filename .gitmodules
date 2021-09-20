@@ -4,3 +4,9 @@
 [submodule "hacking"]
 	path = hacking
 	url = https://github.com/digitalreplica/hacking.git
+[submodule "git-knowledge"]
+	path = git-knowledge
+	url = https://github.com/digitalreplica/git-knowledge.git
+[submodule "git-notes"]
+	path = git-notes
+	url = https://github.com/digitalreplica/git-notes.git
